@@ -1,0 +1,5 @@
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\Modul_02\bin\Debug\Modul_02.exe
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\Modul_02\bin\Debug\Modul_02.pdb
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\Modul_02\obj\x86\Debug\Modul_02.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\Modul_02\obj\x86\Debug\Modul_02.exe
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\Modul_02\obj\x86\Debug\Modul_02.pdb
