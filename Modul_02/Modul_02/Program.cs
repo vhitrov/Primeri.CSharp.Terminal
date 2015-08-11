@@ -22,6 +22,31 @@ namespace Modul_02
 			Console.Write ( b );
 			Console.Write (" = ");
 			Console.WriteLine( sum );
-		}
+
+			//Допълнителни оператори
+			Console.WriteLine("\nИзползване на +=");
+			a += b;
+			Console.WriteLine(a);
+
+			Console.WriteLine("\nИзползване на -=");
+			a -= b;
+			Console.WriteLine(a);
+
+			Console.WriteLine("\nИзползване на *=");
+			a *= b;
+			Console.WriteLine(a);
+
+			Console.WriteLine("\nИзползване на ++");
+			a ++;
+			Console.WriteLine(a);
+
+			a = 15; b = 10;
+
+			Console.WriteLine("\nСтандартно делене");
+			Console.WriteLine( a / b ); // 1, (1,5)
+
+			Console.WriteLine("\nХващане на остатък");
+			Console.WriteLine( a % b ); // 5, (1,5)
+					}
 	}
 }
