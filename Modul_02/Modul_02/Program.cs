@@ -7,9 +7,14 @@ namespace Modul_02
 		public static void Main (string[] args)
 		{
 			//Дефиниране на променливи
-			int a = 0,  b = 0;
+			int a = 0, b = 0;
 			int sum = 0;
+			string program_name = "Модул 02 - Примери";
+			string program_vertion = "1.0";
 
+			//За програмата
+			Console.WriteLine (program_name+"\n");
+			Console.WriteLine ("Версия: " + program_vertion + "\n\n");
 			//Събиране на числа
 			a = 5;
 			b = 10; 
@@ -17,7 +22,7 @@ namespace Modul_02
 			sum = a + b;
 
 			//Писане в конзола
-			Console.Write( a );
+			Console.Write( a 		);
 			Console.Write (" + ");
 			Console.Write ( b );
 			Console.Write (" = ");
