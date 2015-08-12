@@ -1,0 +1,5 @@
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\ReadFromCommandLine\bin\Debug\ReadFromCommandLine.exe
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\ReadFromCommandLine\bin\Debug\ReadFromCommandLine.pdb
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\ReadFromCommandLine\obj\x86\Debug\ReadFromCommandLine.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\ReadFromCommandLine\obj\x86\Debug\ReadFromCommandLine.exe
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\ReadFromCommandLine\obj\x86\Debug\ReadFromCommandLine.pdb
