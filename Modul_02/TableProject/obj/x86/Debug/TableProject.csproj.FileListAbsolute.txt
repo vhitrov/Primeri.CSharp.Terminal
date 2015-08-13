@@ -1,0 +1,5 @@
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\TableProject\obj\x86\Debug\TableProject.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\TableProject\bin\Debug\TableProject.exe
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\TableProject\bin\Debug\TableProject.pdb
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\TableProject\obj\x86\Debug\TableProject.exe
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul_02\TableProject\obj\x86\Debug\TableProject.pdb
