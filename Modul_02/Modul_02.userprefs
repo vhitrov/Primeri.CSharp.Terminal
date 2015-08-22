@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="TableProject\TableProject.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TableProject\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Modul_02\Program.cs">
     <Files>
-      <File FileName="Modul_02\Program.cs" Line="1" Column="1" />
+      <File FileName="Modul_02\Program.cs" Line="17" Column="62" />
       <File FileName="ReadFromCommandLine\Program.cs" Line="1" Column="1" />
       <File FileName="TableProject\Program.cs" Line="29" Column="4" />
     </Files>
