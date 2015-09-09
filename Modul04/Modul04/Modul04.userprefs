@@ -1,9 +1,8 @@
-﻿<Properties StartupItem="BoolExplore02\BoolExplore02.csproj">
+﻿<Properties StartupItem="Modul04.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Modul03\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="BoolExplore02\Program.cs" Line="26" Column="32" />
-      <File FileName="Modul03\Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="14" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
