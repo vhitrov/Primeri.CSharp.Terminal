@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul04", "Modul04.csproj", "{45446CD5-B107-4DDA-BBD3-F738A15E82CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExplore", "ListExplore\ListExplore.csproj", "{FEB4FB8E-FDA6-4029-8963-3E0E7C2D0E2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{45446CD5-B107-4DDA-BBD3-F738A15E82CE}.Debug|x86.Build.0 = Debug|x86
 		{45446CD5-B107-4DDA-BBD3-F738A15E82CE}.Release|x86.ActiveCfg = Release|x86
 		{45446CD5-B107-4DDA-BBD3-F738A15E82CE}.Release|x86.Build.0 = Release|x86
+		{FEB4FB8E-FDA6-4029-8963-3E0E7C2D0E2F}.Debug|x86.ActiveCfg = Debug|x86
+		{FEB4FB8E-FDA6-4029-8963-3E0E7C2D0E2F}.Debug|x86.Build.0 = Debug|x86
+		{FEB4FB8E-FDA6-4029-8963-3E0E7C2D0E2F}.Release|x86.ActiveCfg = Release|x86
+		{FEB4FB8E-FDA6-4029-8963-3E0E7C2D0E2F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
