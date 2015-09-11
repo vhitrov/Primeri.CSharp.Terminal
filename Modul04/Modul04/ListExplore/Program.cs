@@ -32,11 +32,10 @@ namespace ListExplore
 					}
 				//Преглед на List
 				if (_userinput.Contains ("show")) {
-					Console.Write ("List: ");
-					for (int i = 0; i < _list.Count; i++) {
-						Console.Write (_list [i]);
-						if (i != _list.Count - 1)
-							Console.Write (", ");
+					Console.Write ("Списък: ");
+					foreach(int value in _list)
+					{
+						Console.Write(value.ToString()+", ");
 					}
 					Console.WriteLine ("\n");
 				}
