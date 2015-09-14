@@ -1,0 +1,5 @@
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul05\Modul05\bin\Release\Modul05.exe
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul05\Modul05\bin\Release\Modul05.pdb
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul05\Modul05\obj\x86\Release\Modul05.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul05\Modul05\obj\x86\Release\Modul05.exe
+D:\aula\primeri.csharp.terminal\Primeri.CSharp.Terminal\Modul05\Modul05\obj\x86\Release\Modul05.pdb
