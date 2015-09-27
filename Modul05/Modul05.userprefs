@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="Modul05\Modul05.csproj">
+﻿<Properties StartupItem="ClassExplorer\ClassExplorer.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Modul05\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassExplorer\Program.cs">
     <Files>
-      <File FileName="Modul05\Program.cs" Line="92" Column="2" />
+      <File FileName="ClassExplorer\Program.cs" Line="11" Column="62" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
