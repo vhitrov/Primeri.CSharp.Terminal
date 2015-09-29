@@ -4,47 +4,75 @@ namespace ClassExplorer
 {
 	public class person
 	{
-		private string simpleString = "Тестова променлива от клас";
-		private string user="";
+		private string _userName="";
+		private string _userPass="";
 
-		private string hiddenstring="";
+		private string _userID="";
+		private string _userFName="";
+		private string _userLName="";
 
-		public person(string _ini)
+		public string userName
 		{
-			getUser (_ini);
-			setWelcomeText ();
+			get{ return _userName; }
 		}
 
-		private void getUser(string _ini)
+		public string userPass
 		{
-			if(_ini=="password1") hiddenstring="Потребител 1";
-			if(_ini=="password2") hiddenstring="Потребител 2";
-			user = hiddenstring;
+			get{ return _userPass; }
 		}
 
-		private void setWelcomeText()
+		public string userID
 		{
-			if (hiddenstring.Length > 0)
-				simpleString = "Добре дошли отново, " + user + "!";
-			else
-				simpleString = "Вие нямате достъп до тази програма";	
+			get{return _userID; }
+			set{_userID = value; }
 		}
-		public string getWelcomeMessage()
+
+		public string userFName
 		{
-			return simpleString;
+			get{return _userFName; }
+			set{_userFName = value; }
 		}
+
+		public string userLName
+		{
+			get{return _userLName; }
+			set{_userLName = value; }
+		}
+
+		public person(string _user, string _pass)
+		{
+			checkUser (_user, _pass);
+		}
+
+		private bool checkUser (string _user, string _pass)
+		{
+			if (_user == "user" && _pass == "pass") {
+			
+				//Попълване на пропъртита
+				userID="ID: 0000";
+				userFName="Vasil";
+				userLName="Hitrov";
+
+				return true;
+			}
+			return false;
+		}
+
 	}
 	class MainClass
 	{
 		public static void Main (string[] args)
 		{
-			Console.Write ("Парола: "); string _user = Console.ReadLine ();
+			Console.Write ("Потребител: "); string _user = Console.ReadLine ();
+			Console.Write ("Парола: "); string _pass = Console.ReadLine ();
 
 			//Дефинира на клас
-			person _person=new person(_user);
+			person _person=new person(_user, _pass);
 
 			//Достъпване на клас
-			Console.WriteLine (_person.getWelcomeMessage());
+			_person.userFName="Име";
+			Console.WriteLine(_person.userFName+" "+_person.userLName);
+
 		}
 	}
 }
